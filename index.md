@@ -61,6 +61,7 @@ Please add your knowledge to these guides, and see you at a future event in Shen
 - [Jon Phillips](http://rejon.org), @rejon
 - [Clément Renaud](http://clementrenaud.com) @clemsos
 - [Wolfgang Spraul](https://qihardware.com) @qihardware
+- Tyler Mathews @tymathews
 - Add yourself :)
 
 ## Supporters
