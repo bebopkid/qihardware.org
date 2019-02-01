@@ -23,7 +23,7 @@ Qi Hardware is bringing together:
 
 ### Brief history
 
-_This is meant to be sequential and need to put dates down. Any rough estimates are helpful, thans!_
+_This is meant to be sequential and need to put dates down. Any rough estimates are helpful, thanks!_
 
 - Open Source movement
 - Creative Commons and Free Culture movements
@@ -95,7 +95,7 @@ _This is meant to be sequential and need to put dates down. Any rough estimates 
 
 ### Contact
 
-- E-mail: <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+- Email: <a href="mailto:{{ site.email }}">{{ site.email }}</a>
 - Telegram: [https://t.me/{{ site.telegram }}](https://t.me/{{ site.telegram }})
 - Twitter: [https://twitter.com/{{ site.twitter }}](https://twitter.com/{{ site.twitter }}) (news & for public announcements)
 - Instagram: [https://instagram.com/{{ site.instagram }}](https://instagram.com/{{ site.instagram }}) (community building)
@@ -125,7 +125,7 @@ Donations may be made to:
 
 - Bitcoin: 1HZHH4dfv8tfffzTH6S6aGt8vA4ZteUrZF
 - Ethereum: 0x508F2F6518b9B49156668DDB72be844155c466FC
-- <a href="mailto:ai@qihardware.org">USD or other fiat currencies please e-mail us</a>
+- <a href="mailto:ai@qihardware.org">USD or other fiat currencies please email us</a>
 
 
 {% include footer_meta.md mod_date=page.date %}
